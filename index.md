@@ -5,13 +5,7 @@ There's a deployed demo on heroku for the same at https://scrabblewordstrie.hero
 
 ### Example End Points
 
-```markdown
 
-
-- Bulleted
-- List
 
 1. **All the letters that start with letter m** -> [Link](https://scrabblewordstrie.herokuapp.com/startLetter/m)
 2. **Check for a word's existence** -> [Link](https://scrabblewordstrie.herokuapp.com/checkWord/testing)
-
-```
