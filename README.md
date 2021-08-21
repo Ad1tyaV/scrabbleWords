@@ -1,5 +1,7 @@
 # scrabbleWords
 
+[![Django CI](https://github.com/Ad1tyaV/scrabbleWords/actions/workflows/django.yml/badge.svg)](https://github.com/Ad1tyaV/scrabbleWords/actions/workflows/django.yml)
+
 ## Examples
 
 `{"Instructions": {"Check for a word's existence": "scrabblewordstrie.herokuapp.com/checkWord/<word>", "Check letters starting with": "scrabblewordstrie.herokuapp.com/startLetter/<letter>"}}`
